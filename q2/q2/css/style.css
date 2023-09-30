@@ -6,29 +6,29 @@
   width: 200px;
 	background-color: #d2b48c;
   background-size: 200px auto;
-  float: left;
   box-shadow: 0 0 0 6px #655;
   outline: 10px solid #655;
   border-radius: 13px;
   margin: 20PX;
+  padding: 10px;
 }
 .box2{
   width: 200px;
 	background-size: 200px auto;
 	background-color: #d2b48c;
-  float: left;
   box-shadow: 0 0 0 6px #655;
   outline: 10px solid #655;
   border-radius: 13px;
   margin: 20px;
+  padding: 10px;
 }
 .box3{
   width: 200px;
 	background-size: 200px auto;
 	background-color: #d2b48c;
-  float: left;
   box-shadow: 0 0 0 6px #655;
   outline: 10px solid #655;
   border-radius: 13px;
   margin: 20px;
+  padding: 10px;
 }
